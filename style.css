@@ -1,5 +1,11 @@
-.body-paragraph
+.index-text
 {
-    color: white;
-    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+.heading-text
+{
+    color: royalblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
